@@ -21,7 +21,7 @@
     "start": "webpack-dev-server --env.development"
   },
   "dependencies": {
-    "aws-sdk": "^2.693.0",
+    "aws-sdk": "^2.1261.0",
     "mustache": "^3.2.1"
   }
 }
